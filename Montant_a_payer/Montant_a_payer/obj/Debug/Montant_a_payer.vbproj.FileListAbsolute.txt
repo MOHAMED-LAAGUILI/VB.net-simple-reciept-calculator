@@ -1,0 +1,26 @@
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\bin\Debug\Montant_a_payer.exe
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\bin\Debug\Montant_a_payer.pdb
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\bin\Debug\Montant_a_payer.xml
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.Resources.resources
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.vbproj.GenerateResource.Cache
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.exe
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.xml
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.pdb
+C:\Users\Pc-01\Downloads\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.Station.resources
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.exe
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.xml
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.pdb
+E:\Montant_a_payer\Montant_a_payer\bin\Debug\Montant_a_payer.exe
+E:\Montant_a_payer\Montant_a_payer\bin\Debug\Montant_a_payer.pdb
+E:\Montant_a_payer\Montant_a_payer\bin\Debug\Montant_a_payer.xml
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\ResolveAssemblyReference.cache
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.Station.resources
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.Resources.resources
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.vbproj.GenerateResource.Cache
+E:\Montant_a_payer\Montant_a_payer\bin\Debug\en-CA\Montant_a_payer.resources.dll
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.Station.en-CA.resources
+E:\Montant_a_payer\Montant_a_payer\obj\Debug\en-CA\Montant_a_payer.resources.dll
+E:\MIAGE K.E.K\2éme année\Semister 2\VB.NET (Déploiement)\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.exe
+E:\MIAGE K.E.K\2éme année\Semister 2\VB.NET (Déploiement)\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.xml
+E:\MIAGE K.E.K\2éme année\Semister 2\VB.NET (Déploiement)\Montant_a_payer\Montant_a_payer\obj\Debug\Montant_a_payer.pdb
